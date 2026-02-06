@@ -15,3 +15,12 @@ It is intended for security leaders, governance professionals, and practitioners
 
 **Summary**
 This piece reframes the AI debate away from job displacement and toward the real risk: uncontrolled AI adoption expanding the organisational attack surface and introducing new cyber security, governance, and regulatory gaps.
+
+### AI Future Skills – What Really Matters Beyond the Hype
+
+**Originally published on:** LinkedIn  
+**Status:** Published  
+**Link:** https://www.linkedin.com/posts/ali-nouman-ba3a8225_ai-futureskills-activity-7412242674713260032-ilK-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAVR5CsBJpdJ8II2SLNJVuZ-kek1yGbGB-4
+
+**Summary**
+This article examines the real skills organisations and professionals need in an AI-driven future, cutting through hype to focus on critical thinking, security awareness, governance understanding, and the ability to translate AI capabilities into responsible and controlled business use.
