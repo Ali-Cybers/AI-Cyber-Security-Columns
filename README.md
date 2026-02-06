@@ -24,3 +24,13 @@ This piece reframes the AI debate away from job displacement and toward the real
 
 **Summary**
 This article examines the real skills organisations and professionals need in an AI-driven future, cutting through hype to focus on critical thinking, security awareness, governance understanding, and the ability to translate AI capabilities into responsible and controlled business use.
+
+### Cybersecurity & Ransomware — What the UK Cyber Landscape Is Telling Us
+
+**Originally published on:** LinkedIn  
+**Status:** Published  
+**Link:** https://www.linkedin.com/posts/ali-nouman-ba3a8225_cybersecurity-ransomware-ukcyber-activity-7409980632254169088-Y23m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAVR5CsBJpdJ8II2SLNJVuZ-kek1yGbGB-4
+
+**Summary**
+This article explores the evolving ransomware landscape in the UK, key threat trends, tactical defensive measures, and organisational readiness considerations, with a focus on actionable insights for security teams and risk leaders.
+
