@@ -44,5 +44,14 @@ utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAVR5CsBJpdJ8
 **Summary**
 This white paper explains why the EU AI Act is not just a legal issue but a cybersecurity and governance challenge.
 
+### The Real UK Cyber Risk Isn’t Ransomware or AI: Treating Them as Different Problems
+
+**Originally published on:** LinkedIn  
+**Status:** Published  
+**Link:** https://www.linkedin.com/pulse/uks-biggest-cyber-risk-ransomware-ai-taking-them-separate-ali-nouman-ocrgf
+
+**Summary**
+This article explains why separating ransomware and AI as distinct risks creates blind spots in UK cyber defence, and why modern security strategies must assume attacker automation and compressed attack lifecycles.
+
 
 
