@@ -34,3 +34,15 @@ This article examines the real skills organisations and professionals need in an
 **Summary**
 This article explores the evolving ransomware landscape in the UK, key threat trends, tactical defensive measures, and organisational readiness considerations, with a focus on actionable insights for security teams and risk leaders.
 
+### The EU AI Act: Comply or Pay the Price – A Practical White Paper
+
+**Originally published on:** LinkedIn  
+**Status:** Published  
+**Link:** https://www.linkedin.com/posts/ali-nouman-ba3a8225_the-eu-ai-act-comply-or-pay-the-price-activity-7407094800136470529-KYSG
+utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAVR5CsBJpdJ8II2SLNJVuZ-kek1yGbGB-4)
+
+**Summary**
+This white paper explains why the EU AI Act is not just a legal issue but a cybersecurity and governance challenge.
+
+
+
